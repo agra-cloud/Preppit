@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" fill="none">
+  <defs>
+    <linearGradient id="preppit-grad" x1="8" y1="4" x2="56" y2="60" gradientUnits="userSpaceOnUse">
+      <stop offset="0%" stop-color="#3B82F6" />
+      <stop offset="55%" stop-color="#2563EB" />
+      <stop offset="100%" stop-color="#1D4ED8" />
+    </linearGradient>
+  </defs>
+  <rect width="64" height="64" rx="16" fill="url(#preppit-grad)" />
+  <path
+    d="M18 48V17H29.5C36.8 17 39.5 21 39.5 24.5C39.5 28 36.8 32 29.5 32H18"
+    stroke="#FFFFFF"
+    stroke-width="6.5"
+    stroke-linecap="round"
+    stroke-linejoin="round"
+  />
+  <path
+    d="M30 42.5L36 48L48.5 35.5"
+    stroke="#FFFFFF"
+    stroke-width="5.5"
+    stroke-linecap="round"
+    stroke-linejoin="round"
+  />
+</svg>
